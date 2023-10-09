@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\bin\Debug\form24.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\bin\Debug\form24.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\bin\Debug\form24.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\obj\Debug\form24.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\obj\Debug\form24.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\obj\Debug\form24.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\obj\Debug\form24.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\obj\Debug\form24.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\obj\Debug\form24.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\obj\Debug\form24.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form24\form24\obj\Debug\form24.pdb
